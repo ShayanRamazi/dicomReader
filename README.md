@@ -1,5 +1,8 @@
 # DICOM Reader!
 
+[![N|Solid](http://s6.picofile.com/file/8391972092/z.png)](https://ramazi.ir)
+
+
 > What is DICOM ?
 
 DICOM (Digital Imaging and Communications in Medicine) is the **international standard** to transmit, store, retrieve, print, process, and display **medical imaging** information.
